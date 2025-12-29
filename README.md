@@ -4,11 +4,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ratanakvisalduong" alt="ratanakvisalduong" /></a> </p>
 
-- 🔭 I’m currently working on a mobile app project **Saat Menu Mobile App**
+- 🔭 I’m currently working as a Mobile Developer at **Wing Bank**
 
-- 🌱 I’m currently learning **Cyber Security focusing on Vulnerability Assessment and Penetration Testing.**
+- 🌱 I am enthusiastic in both **Cyber Security focusing on Vulnerability Assessment and Penetration Testing**, **Data Science and Artificial Intelligence**
 
-- 📫 How to reach me **salduong97@gmail.com or rduong1@paragoniu.edu.kh**
+- 📫 How to reach me **salduong97@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
